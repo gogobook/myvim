@@ -228,7 +228,7 @@ let g:startify_custom_header = [
         \ '                                      __.| `"`.__       | \              |',
         \ '   Then, write the code.            .``   `---`   `.    |  .             :',
         \ '                                   /                `   |   `-.__________)',
-        \ '   - John Johnson                 |   H A C K I N G     |  :  |          .',
+        \ '   Welcome Cage                   |   H A C K I N G     |  :  |          .',
         \ '                                  |    _                |     |   [ ##   :',
         \ '                                   \    `--.        ____|  ,   oo_______.`',
         \ ]

@@ -1,5 +1,7 @@
 # MY VIM
-my vim config
+forked from kaiqigong/myvim
+This config is for javascript development, mostly.
+It also very clean.
 
 Requirements
 --------------------------
